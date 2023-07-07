@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="gif" width="600" height="300">
   <h1 align="center">Hi 👋, I'm Nico</h1>
-  <h3 align="center">As a Full Stack developer with experience in MERN and AGILE Methodology, as well as a high school math teacher, my focus
+  <h3 align="left">As a Full Stack developer with experience in MERN and AGILE Methodology, as well as a high school math teacher, my focus
   is on facing challenges and collaborating in teams to create innovative solutions. With strong web development skills
   and a teaching perspective, I approach projects with an open mind and find creative solutions.</h3>
 </div>
